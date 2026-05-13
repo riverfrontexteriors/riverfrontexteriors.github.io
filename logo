@@ -1,0 +1,2 @@
+LOGO_B64=$(cat /home/claude/logo_b64.txt)
+echo "Logo loaded, length: ${#LOGO_B64}"
